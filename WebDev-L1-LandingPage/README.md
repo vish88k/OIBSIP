@@ -129,7 +129,7 @@ Screenshots of the completed **FocusFlow Landing Page** are included in the `scr
 
 ### Landing Page
 
-![FocusFlow Landing Page](screenshots/landing-page.png)
+![FocusFlow Landing Page(https://github.com/vish88k/OIBSIP/blob/main/WebDev-L1-LandingPage/Screenshot%202026-09-10%20225949.png)
 
 ---
 
