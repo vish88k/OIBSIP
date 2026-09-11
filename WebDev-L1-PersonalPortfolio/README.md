@@ -127,8 +127,8 @@ Screenshots of the completed **Personal Portfolio** are included in the `screens
 
 ### Personal Portfolio
 
-![Personal Portfolio](screenshots/portfolio.png)
-
+![Personal Portfolio]
+(https://github.com/vish88k/OIBSIP/blob/main/WebDev-L1-PersonalPortfolio/Screenshot%202026-09-10%20233725.png);
 ---
 
 ## 🎓 Learning Outcomes
